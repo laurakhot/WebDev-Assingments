@@ -1,0 +1,11 @@
+/*Rules, selectors, properties*/
+/*Properties must end in semi-colons (doesn't send error message, just doens't include the style*/
+h1 {
+    font-family: 'Helvetica';
+    color: white;
+    background-color: purple;
+}
+
+p {
+    background-color: blanchedalmond;
+}
